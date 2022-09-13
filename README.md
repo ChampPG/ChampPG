@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 * 📫 How to reach me: paul.gleason@mymail.champlain.edu
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I used to competitively do skiercross.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats)
