@@ -1,4 +1,4 @@
-### Hi there, I'm Paul 👋
+## Hi there, I'm Paul 👋
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gitbook.paulgleason.dev)
 
