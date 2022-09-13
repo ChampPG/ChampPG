@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 <p>
-    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=ChampPG&hide=stars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ChampPG&hide=stars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
