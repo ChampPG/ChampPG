@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning: More Automation and Scripting, Advanced Networking.
 * 🤔 I’m looking for help with: Self-hosting options I am a huge lover of being able to host things myself.
 * 💬 My goals for 2022/2023: Self-host bitwarden and mailserver and have automated backups for linux, windows desktop, and phone photos.
-* 📫 How to reach me: paul.gleason@mymail.champlain.edu
+* 📫 How to reach me: ppgleason02@gmail.com
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I used to competitively do skiercross.
 
