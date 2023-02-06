@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 * 🔭 I’m currently working on: Getting my BS in Cyber Security at Champlain College.
 * 🌱 I’m currently learning: More Automation and Scripting, Advanced Networking.
-* 🤔 I’m looking for help with: Self-hosting options I am a huge lover of being able to host things myself.
-* 💬 My goals for 2022/2023: Self-host bitwarden and mailserver and have automated backups for linux, windows desktop, and phone photos.
+* 🤔 I’m looking for help with: Chapel and multilocal execution.
+* 💬 My goals for 2022/2023: Using Chapel and multilocal execution be able to make weather prediction.
 * 📫 How to reach me: ppgleason02@gmail.com
 * ⚡ Fun fact: I used to competitively do skiercross.
 
