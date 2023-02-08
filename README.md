@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ChampPG&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-<p>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ChampPG&hide=stars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+<p align='center'>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
