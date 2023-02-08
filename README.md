@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="#"<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&langs_count=5&theme=dark" width="350"></a>
 </p>
