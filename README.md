@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ChampPG&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&langs_count=5&theme=dark" /></a>
 </p>
 
-
+<p align='center'>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&langs_count=5&theme=dark" /></a>
+</p>
