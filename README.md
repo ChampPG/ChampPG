@@ -1,6 +1,7 @@
 ## Hi there, I'm Paul 👋
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gitbook.paulgleason.dev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulpgleason/)
 
 <!--
 **ChampPG/ChampPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
