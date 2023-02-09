@@ -1,7 +1,7 @@
 <h1 align='center'> <width="50"> Hi I'm Paul 👋</h1> 
  
-<p alighn='center'> [![Gitbook Badge](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.paulgleason.dev) </p>
-<p alighn='center'> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulpgleason/) </p>
+<p align='center'> [![Gitbook Badge](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.paulgleason.dev) </p>
+<p align='center'> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulpgleason/) </p>
 
  
 <!--
