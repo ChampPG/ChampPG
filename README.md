@@ -1,8 +1,8 @@
 <h1 align='center'> <width="50"> Hi I'm Paul 👋</h1> 
  
-** Pursuing a Bachelor's degree in Cyber Security and Computer Networking @ Champlain College **
-** Labtech Imaging Assistant @ Champ Support **
-** DevOps Researcher @ The Leahy Center **
+** Pursuing a Bachelor's degree in Cyber Security and Computer Networking @ Champlain College ** \n
+** Labtech Imaging Assistant @ Champ Support ** \n
+** DevOps Researcher @ The Leahy Center ** \n
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230071c5.svg?style=for-the-badge&logo=microsoft-defender&logoColor=white)
 
