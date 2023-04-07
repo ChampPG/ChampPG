@@ -1,11 +1,10 @@
 <h1 align='center'> <width="50"> Hi I'm Paul 👋</h1> 
  
-Pursuing a Bachelor's degree in Cyber Security and Computer Networking @ Champlain College
-Labtech Imaging Assistant @ Champ Support
-DevOps Researcher @ The Leahy Center
+** Pursuing a Bachelor's degree in Cyber Security and Computer Networking @ Champlain College **
+** Labtech Imaging Assistant @ Champ Support **
+** DevOps Researcher @ The Leahy Center **
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230071c5.svg?style=for-the-badge&logo=microsoft-defender&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wAAAMvMCtZUiEAAADzSURBVBjTY2AYBaNgGMvOztDcwO/NrMjK1ODc5a5js5O5tjY0tLDQ2MTAwfBweC1dXV1MSk5OVmJmZgYGBg0NDTz29uTJzMzLzIwMnDxMnFxcJGQkKgCAAA8PAzM/P4+/vq6e6CgoJ6+vjQkZGRMDAwuBgoAABoB/AP///8Lj+4CYmJivq6urdvb2Gg4ODgQkJCfPz9XV1dVFRUMDAxjYmJ7u7udERERyAgIA8N0I/Hz9GJlM2fOvL8f/1wKbCAQDzAycvLz8nKSkrpFMSjCwtLX19fZmZmbGxsYwYMDA0NDS09PD1JSUuTk5OX19cXKqmpk5OTv///5tu5iLnoHsGwYGE8DAmW2y8sCtH39/PDAwMBy1tbXE1NTWg4ODjT09PTx8fHsLCwoGwADAHYBOh/qqj/AAAAAElFTkSuQmCC&logoColor=white)
 
 
 <!--
@@ -22,7 +21,8 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: I used to competitively do skiercross.
 
 ## Skills and Tools
-
+ 
+![DevSecOps](https://img.shields.io/badge/DevSecOps-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wAAAMvMCtZUiEAAADzSURBVBjTY2AYBaNgGMvOztDcwO/NrMjK1ODc5a5js5O5tjY0tLDQ2MTAwfBweC1dXV1MSk5OVmJmZgYGBg0NDTz29uTJzMzLzIwMnDxMnFxcJGQkKgCAAA8PAzM/P4+/vq6e6CgoJ6+vjQkZGRMDAwuBgoAABoB/AP///8Lj+4CYmJivq6urdvb2Gg4ODgQkJCfPz9XV1dVFRUMDAxjYmJ7u7udERERyAgIA8N0I/Hz9GJlM2fOvL8f/1wKbCAQDzAycvLz8nKSkrpFMSjCwtLX19fZmZmbGxsYwYMDA0NDS09PD1JSUuTk5OX19cXKqmpk5OTv///5tu5iLnoHsGwYGE8DAmW2y8sCtH39/PDAwMBy1tbXE1NTWg4ODjT09PTx8fHsLCwoGwADAHYBOh/qqj/AAAAAElFTkSuQmCC&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white)
