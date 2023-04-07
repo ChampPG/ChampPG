@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align='center'>
+<p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ChampPG&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
+<p align='left'>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&layout=compact&theme=dark" /></a>
 </p>
