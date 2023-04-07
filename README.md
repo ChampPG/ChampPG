@@ -2,6 +2,8 @@
  
 **Pursuing a Bachelor's degree in Cyber Security and Computer Networking @ Champlain College**
  
+**Information, Technology, and Sciences Representative @ Champlain College Student Government Association**
+ 
 **Labtech Imaging Assistant @ Champ Support**
  
 **DevOps Researcher @ The Leahy Center**
