@@ -4,6 +4,8 @@
  
 **Information, Technology, and Sciences Representative @ Champlain College Student Government Association**
  
+**Security Automation Intern @ NBCU**
+ 
 **Labtech Imaging Assistant @ Champ Support**
  
 **DevOps Researcher @ The Leahy Center**
