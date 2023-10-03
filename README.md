@@ -3,12 +3,12 @@
 **Pursuing a Bachelor's degree in Cyber Security and Computer Networking @ Champlain College**
  
 **Information, Technology, and Sciences Representative @ Champlain College Student Government Association**
- 
-**Security Automation Intern @ NBCU**
- 
+
 **Labtech Imaging Assistant @ Champ Support**
+
+**Past Security Automation Intern @ NBCU**
  
-**DevOps Researcher @ The Leahy Center**
+**Past DevOps Researcher @ The Leahy Center**
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230071c5.svg?style=for-the-badge&logo=microsoft-defender&logoColor=white)
 
