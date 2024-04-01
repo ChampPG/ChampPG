@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 
 
 ## Technical Journals
-
 [![Gitbook Badge](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.paulgleason.dev)
+Moving over to my new Quartz website which will include the gitbook and more!
+[![Website Bagde](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://quartz.paulgleason.dev)
 
 ## Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulpgleason/)
