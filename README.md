@@ -1,10 +1,12 @@
 <h1 align='center'> <width="50"> Hi I'm Paul 👋</h1> 
+
+**Cyber Consultant @ Enduir Cyber LLC**
  
-**Pursuing a Bachelor's degree in Cyber Security and Computer Networking @ Champlain College**
+**Bachelor's of Science in Cyber Security and Computer Networking @ Champlain College**
 
-**Director of Finance @ Champlain College Student Government Association**
+***Past Director of Finance @ Champlain College Student Government Association***
 
-**Labtech Imaging Assistant @ Champ Support**
+***Past Imaging Assistant @ Champ Support***
 
 ***Past Information, Technology, and Sciences Representative @ Champlain College Student Government Association***
 
