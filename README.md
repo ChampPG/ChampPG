@@ -4,16 +4,6 @@
  
 **Bachelor's of Science in Cyber Security and Computer Networking @ Champlain College**
 
-***Past Director of Finance @ Champlain College Student Government Association***
-
-***Past Imaging Assistant @ Champ Support***
-
-***Past Information, Technology, and Sciences Representative @ Champlain College Student Government Association***
-
-***Past Security Automation Intern @ NBCU***
- 
-***Past DevOps Researcher @ The Leahy Center***
-
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230071c5.svg?style=for-the-badge&logo=microsoft-defender&logoColor=white)
 
 
