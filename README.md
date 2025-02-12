@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 * 🤔 I’m looking for help with: Chapel and multilocal execution.
 -->
-* 🔭 I’m currently working on: My own automated recon tool kit.
-* 🌱 I’m currently learning: Enterprise Network Segmentation, Pentesting, and PowerCLI.
-* 💬 My goals for 2023/2024: Dive deeper into the automation of pentesting.
+* 🔭 I’m currently working on: Many Docker project
+* 🌱 I’m currently learning: How to Stem for automated tor website scraping
+* 💬 My goals for 2025/2026: Continue to automate homelab and containerize services which can be.
 * 📫 How to reach me: ppgleason02@gmail.com
 * ⚡ Fun fact: I used to competitively do skiercross.
 
@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 
 
 ## Technical Journals
-[![Gitbook Badge](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.paulgleason.dev)
-
-Moving over to my new Quartz website which will include the gitbook and more!
-
 [![Website Bagde](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://quartz.paulgleason.dev)
 
 ## Social
