@@ -40,15 +40,16 @@ Here are some ideas to get you started:
 ## Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulpgleason/)
  
-## Github Stats 
+<!--  ## Github Stats -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align='left'>
+<!-- <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ChampPG&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='left'>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG&layout=compact&theme=dark" /></a>
 </p>
+
