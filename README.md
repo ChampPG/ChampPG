@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 * 🤔 I’m looking for help with: Chapel and multilocal execution.
 -->
-* 🔭 I’m currently working on: Many Docker project
+* 🔭 I’m currently working on: [Av1an Docker Encoder](https://github.com/champpg/av1an-docker) (W.I.P) [Autoremove Torrents Docker](https://github.com/champpg/autoremove-torrents) (Complete) SlopToob Docker (Coming Soon)
 * 🌱 I’m currently learning: How to Stem for automated tor website scraping
 * 💬 My goals for 2025/2026: Continue to automate homelab and containerize services which can be.
 * 📫 How to reach me: ppgleason02@gmail.com
