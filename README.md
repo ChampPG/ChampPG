@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ## Technical Journals
-[![Website Bagde](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://quartz.paulgleason.dev)
+[![Website Bagde](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://quartz.pg.opworks.org)
 
 ## Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulpgleason/)
